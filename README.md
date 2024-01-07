@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brian-Riant a student at Jkuat.
 - 👀 I’m interested in building systems that make work easier to change lives.
-- 🌱 I’m currently learning BSc.industrial mathematics and Front-end development.
+- 🌱 I’m currently learning BSc.industrial mathematics and flutter development.
 - 📫 Reach me at brianriant@gmail.com 
 
 <!---
